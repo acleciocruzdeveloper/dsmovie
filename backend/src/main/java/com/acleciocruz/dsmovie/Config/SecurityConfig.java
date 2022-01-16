@@ -1,4 +1,4 @@
-package com.acleciocruz.dsmovie.Config;
+package com.acleciocruz.dsmovie.config;
 
 import java.util.Arrays;
 
