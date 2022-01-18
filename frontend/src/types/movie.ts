@@ -6,7 +6,7 @@ export type Movie = {
     image: string;
 }
 
-export type moviePage = {
+export type MoviePage = {
     content: Movie[];
     last: boolean;
     totalPages: number;
