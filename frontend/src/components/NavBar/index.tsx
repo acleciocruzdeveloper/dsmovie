@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import { ReactComponent as GithubIcon } from 'assets/img/github.svg';
 import './style.css';
 

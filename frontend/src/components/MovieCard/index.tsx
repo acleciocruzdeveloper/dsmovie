@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import MovieScore from 'components/MovieScore';
 
 import { Link } from 'react-router-dom';

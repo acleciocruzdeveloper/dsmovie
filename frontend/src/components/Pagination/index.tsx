@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/ban-types */
+/* eslint-disable react/react-in-jsx-scope */
 import { ReactComponent as Arrow } from 'assets/img/arrow.svg';
 import { MoviePage } from 'types/movie';
 import './style.css';

@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import FormCard from "components/FormCard";
 import { useParams } from "react-router-dom";
 

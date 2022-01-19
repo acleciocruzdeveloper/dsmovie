@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import './styles.css';
 import MovieStar from 'components/MovieStar';
 
